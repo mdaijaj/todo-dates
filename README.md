@@ -1,6 +1,8 @@
 # todo-dates
 
-In this project I have made todo list using date wise.
+In this project I have made todo list using date wise. <br>
+user add task and they can see all task date wise .
+
 
 ## Requirement:-
 1. backend: Nodejs with express framework <br> 
