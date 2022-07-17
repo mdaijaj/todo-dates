@@ -2,7 +2,7 @@
 
 In this project I have made todo list using date wise.
 
-## Requeirement:-
+## Requirement:-
 1. backend: Nodejs with express framework <br> 
 2. fronted: Reactjs with Bootstrap <br>
 3. database: Monogodb with Mongoose
